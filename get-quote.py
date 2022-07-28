@@ -1,4 +1,4 @@
-def miui():
+def  main():
   print("Keep it logically awesome.")
 
   #f = open("quotes.txt")
@@ -7,5 +7,5 @@ def miui():
 
   #print(quotes)
 
-if __name__== "__main__":
+if __miui__== "__main__":
   miui()
