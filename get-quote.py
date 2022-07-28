@@ -1,4 +1,4 @@
-def "__miui__"():
+def miui():
   print("Keep it logically awesome.")
 
   #f = open("quotes.txt")
